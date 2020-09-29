@@ -11,5 +11,3 @@ Here you can find my [resume](https://github.com/oguzkirazdiken/msc-files/blob/m
 [Predicting House Sales Price in King County, USA](https://oguzkirazdiken.github.io/oguz.kirazdiken/Project%20MA%E2%80%93Tamirane.html): Developed a model to predict the value of a given house in the Boston real estate market with using various libraries in R. Identified the best price that a client can sell their house with using Geolocational Clustering.
 
 
-
-[xxx](https://github.com/oguzkirazdiken/msc-files/blob/master/AML_Group_Project.ipynb)
