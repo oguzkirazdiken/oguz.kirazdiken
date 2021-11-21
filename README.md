@@ -2,7 +2,7 @@
 
 Repository containing portfolio of data science projects completed by me for academic and self learning purposes.
 
-Here you can find my [resume](https://github.com/oguzkirazdiken/msc-files/blob/master/Oguz's%20Resume.pdf).
+Here you can find my [resume](https://github.com/oguzkirazdiken/msc-files/blob/master/oguz%20kirazdiken%20resume.pdf).
 
 
 [Prediction of Hotel Reservation Cancellations](https://oguzkirazdiken.github.io/oguz.kirazdiken/Capstone%20Project%20Report%20_Prediction%20of%20Hotel%20Reservation%20Cancellations.pdf): This study aims to create a model to predict the reservation requests that may be potentially cancelled using the information related to reservation requests. For this purpose, the reservation request gathered by hotels in Portugal for a period of two years are examined. Machine learning algorithms such as random forest, decision trees, logistic regression, gradient boosting classifier and extra gradient boosting classifier are trained and tested on the above-mentioned real data and the results are discussed in detail. Here you can find the project's [codebook](https://oguzkirazdiken.github.io/oguz.kirazdiken/Hotel%20Booking%20Demand%20Prediction.html).
